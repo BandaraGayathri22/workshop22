@@ -1,0 +1,7 @@
+{
+  "name": "Copy of OmniMind AI",
+  "description": "A powerful, multi-purpose chatbot powered by Gemini 3 Pro, capable of answering any question, analyzing images, and assisting with complex tasks in a beautiful, responsive interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
